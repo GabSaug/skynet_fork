@@ -1,3 +1,5 @@
+build/
+.gitignore
 *.o
 *.a
 /skynet
