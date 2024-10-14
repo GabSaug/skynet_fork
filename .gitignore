@@ -1,5 +1,5 @@
 build/
-.gitignore
+log_make.txt
 *.o
 *.a
 /skynet
